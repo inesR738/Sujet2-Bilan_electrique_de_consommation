@@ -1,6 +1,7 @@
 # Sujet2-Bilan_electrique_de_consommation
 
 Objectif
+
 On construit un shiny qui permet de visualiser le bilan électrique (consommation et production locale) à une maille locale à partir des données Enedis au pas annuelle
 et de comparer plusieurs collectivités. Les mailles pourront être des régions, des départements ou des communes.
 Les données ne seront pas récupérées par API mais pourront être téléchargées à l’adresse : https://data.enedis.fr/explore/?sort=modified (prendre les six jeux de données : 
